@@ -1,11 +1,11 @@
 {
-  "surum": "3.4.4",
-  "dosya": "mezatron-3.4.4.zip",
-  "sha256": "466463d2c161671ccf6b4c05c7716f732adcfa7d8f9343fe4cf612ed4752c9b2",
-  "boyut": 5100021,
-  "tarih": "2026-11-11T07:54:40.808Z",
-  "notlar": "Telefonda Mihu yerine Balbal (Seda ile birlikte). Telefon uygulaması 3.4.4 artık güncellemeyle bilgisayara iner.",
-  "imza": "Se8OmBRVqyqdzjplCRxElOPTHpNuPVGUQ7ghBfbUXqkaCYeaDUb9YXsWH2zMCDdMXu6P5sCXepNBaq6XDD3hDA==",
+  "surum": "3.4.5",
+  "dosya": "mezatron-3.4.5.zip",
+  "sha256": "80453adbdd83a6747986e2cdd75cc8f4478202aca1c5e7241e8bdda97c3c458f",
+  "boyut": 5101754,
+  "tarih": "2026-11-11T09:10:38.109Z",
+  "notlar": "Bilgisayarda ses tanıma tek tuşla açılır/kapanır (az bellekli bilgisayarlar için)",
+  "imza": "pnuTq3uiXi1fZ7myZFblTlE4UNM7TnyMKLS9agLEe0FRWd/Mm18Z5wfjtZePO7VoQxJVuvn+7Seo63PCaj0pBw==",
   "apk": {
     "versionCode": 47,
     "versionName": "3.4.4",
