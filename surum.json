@@ -1,9 +1,22 @@
 {
-  "surum": "3.4.3",
-  "dosya": "mezatron-3.4.3.zip",
-  "sha256": "0af14bfb4747cae4242bbc393a34e52b7d909c7dd85c79a5ccbb2b4df8738b69",
-  "boyut": 5096778,
-  "tarih": "2026-11-11T06:47:42.173Z",
-  "notlar": "Sistem tepsisi simgesi ve imzalı otomatik güncelleme. Excel (.xlsx) yükleme düzeldi, barkod okuyucu yazı kutularında stok değiştirmiyor, pencere yazıları sadeleşti.",
-  "imza": "ICT8uDzCK015tyXmYLXpRmohMY7Ybwx3fW/GcpWvZjUTjVlB3yCbhqPHXJc2cF20a9+Ou4/zbJuyoIcRVmH+Bw=="
+  "surum": "3.4.4",
+  "dosya": "mezatron-3.4.4.zip",
+  "sha256": "466463d2c161671ccf6b4c05c7716f732adcfa7d8f9343fe4cf612ed4752c9b2",
+  "boyut": 5100021,
+  "tarih": "2026-11-11T07:54:40.808Z",
+  "notlar": "Telefonda Mihu yerine Balbal (Seda ile birlikte). Telefon uygulaması 3.4.4 artık güncellemeyle bilgisayara iner.",
+  "imza": "Se8OmBRVqyqdzjplCRxElOPTHpNuPVGUQ7ghBfbUXqkaCYeaDUb9YXsWH2zMCDdMXu6P5sCXepNBaq6XDD3hDA==",
+  "apk": {
+    "versionCode": 47,
+    "versionName": "3.4.4",
+    "sha256": "7490fd37644107782fd40fe5847f48111f3a0eca74502eabf6750a601ddc1536",
+    "boyut": 296534304,
+    "parcalar": [
+      "Mezatron-Envanter-47.apk.001",
+      "Mezatron-Envanter-47.apk.002",
+      "Mezatron-Envanter-47.apk.003",
+      "Mezatron-Envanter-47.apk.004"
+    ],
+    "imza": "nSjiVSgXRqTgSXF17KBGp24+K15X9x+wp9hWn+CUV0WLc/wJCgei5X1aegF+WcG93RlzhdBArFLcGAI/52BMBw=="
+  }
 }
