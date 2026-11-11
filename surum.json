@@ -1,9 +1,9 @@
 {
-  "surum": "3.4.2",
-  "dosya": "mezatron-3.4.2.zip",
-  "sha256": "3af5c615e8f3c1a170b2ede4e5f1db3eb54d6b4240d4d0eb0c189fbf3e07c123",
-  "boyut": 5096775,
-  "tarih": "2026-11-11T06:41:43.233Z",
-  "notlar": "Sistem tepsisi simgesi ve imzalı otomatik güncelleme; Excel yükleme, barkod okuyucu ve sade pencere yazıları.",
-  "imza": "lNOXtbsqOTLuvL3rB6q9G5kUxV3YVvwSClDQ2v0gHvTahWkgCcQPmcQrhPBH6G6Ai+iOWCc8rVvu4BGzGaEvAQ=="
+  "surum": "3.4.3",
+  "dosya": "mezatron-3.4.3.zip",
+  "sha256": "0af14bfb4747cae4242bbc393a34e52b7d909c7dd85c79a5ccbb2b4df8738b69",
+  "boyut": 5096778,
+  "tarih": "2026-11-11T06:47:42.173Z",
+  "notlar": "Sistem tepsisi simgesi ve imzalı otomatik güncelleme. Excel (.xlsx) yükleme düzeldi, barkod okuyucu yazı kutularında stok değiştirmiyor, pencere yazıları sadeleşti.",
+  "imza": "ICT8uDzCK015tyXmYLXpRmohMY7Ybwx3fW/GcpWvZjUTjVlB3yCbhqPHXJc2cF20a9+Ou4/zbJuyoIcRVmH+Bw=="
 }
