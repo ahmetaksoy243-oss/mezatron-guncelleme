@@ -1,23 +1,23 @@
 {
-  "surum": "3.4.8",
-  "dosya": "mezatron-3.4.8.zip",
-  "sha256": "9e5f1b642fd21dcbda0d2afe4b88af7292d8440d5fb6ab64d49d859716f4bf15",
-  "boyut": 5111149,
-  "tarih": "2026-11-11T11:42:34.130Z",
-  "notlar": "Telefonda irsaliye ekranı geri geldi (⋯ Diğer İşlemler → İRSALİYE OKUT); etikette Renk/Color yazıyorsa renk de okunur",
-  "imza": "KqDsFzvksY0KqsDZAe3lqitgyCNkHVrAttZzh5gMNpfgZua1aDS6R4OoIg3ZyjIxdyS9Cuox90FK5vP68MPmDg==",
+  "surum": "3.4.9",
+  "dosya": "mezatron-3.4.9.zip",
+  "sha256": "40f26d93f5bd94f340569b20a27a9334bca4dfc54a7d96858b841d4af271e70c",
+  "boyut": 5110194,
+  "tarih": "2026-11-11T14:50:10.202Z",
+  "notlar": "Telefondan aktarırken kayıt kaybolmaz; DeepSeek hakemi tek tuşla açılır/kapanır; lisans bilgisayara bağlı; Manas ve Mihu çıkarıldı",
+  "imza": "p8SDrksOrrrJdyKa9UUozNsJ+RO7aUALM4K9sg9vjar652Sx72r8fHlPk9WWKNPBCyXOWs8gfxue0GBXP5ojAw==",
   "apk": {
-    "versionCode": 50,
-    "versionName": "3.4.8",
-    "sha256": "9c613f3317c7be8ddc24a2e056765b48313066d50fd4246cc55f5306d7e5622e",
-    "boyut": 301642566,
+    "versionCode": 51,
+    "versionName": "3.4.9",
+    "sha256": "8034e55cb9e2c541e067dd7802709e97fb6473c568b56b3eb81361e1dde52322",
+    "boyut": 301646662,
     "parcalar": [
-      "Mezatron-Envanter-50.apk.001",
-      "Mezatron-Envanter-50.apk.002",
-      "Mezatron-Envanter-50.apk.003",
-      "Mezatron-Envanter-50.apk.004"
+      "Mezatron-Envanter-51.apk.001",
+      "Mezatron-Envanter-51.apk.002",
+      "Mezatron-Envanter-51.apk.003",
+      "Mezatron-Envanter-51.apk.004"
     ],
-    "imza": "qwDHWc5thCfpikZ7b3Yem98SYmDGx1ucCLULNTQKk67/zNKHGTreHrm1F/27eteyiKkX30pMeNoiW2p2w61uBQ==",
-    "adres": "https://raw.githubusercontent.com/ahmetaksoy243-oss/mezatron-guncelleme/telefon-50/"
+    "imza": "9cNQvz+kuTotybh45kek5ctkYQW7NLSBFJav+ggargkaaYUs4Ushm+vX43jBXbloM/gn+JfeSQEOueFPM6+7Aw==",
+    "adres": "https://raw.githubusercontent.com/ahmetaksoy243-oss/mezatron-guncelleme/telefon-51/"
   }
 }
