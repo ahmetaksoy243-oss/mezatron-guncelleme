@@ -1,23 +1,23 @@
 {
-  "surum": "3.4.6",
-  "dosya": "mezatron-3.4.6.zip",
-  "sha256": "9f81807ca247726d2f9674ff49d1b5a33c81e062350241edd46d45c02cdbae88",
-  "boyut": 5107649,
-  "tarih": "2026-11-11T09:33:47.678Z",
-  "notlar": "Telefon bilgisayar kapalıyken etiket ve irsaliye fotoğrafını kendisi okur; kılavuzlar güncellendi",
-  "imza": "jAJSw1z9fXm2q2mhbjFsEV+lNjLoJ/wv9Ag1Wqoq2rfq0HEDS+RB+1rZyZBFhzm4galpQGVeKKa8qwZE0E8HDw==",
+  "surum": "3.4.7",
+  "dosya": "mezatron-3.4.7.zip",
+  "sha256": "42501c5f47ccd031992bac7a93610c57e3e525369d2673c6a7147e7ea32862c6",
+  "boyut": 5109784,
+  "tarih": "2026-11-11T11:06:10.966Z",
+  "notlar": "Telefonda bilgisayarsız etiket ve irsaliye okuma düzeltildi; okuma adımları kutusu yalnız sorun olunca görünür",
+  "imza": "0PNnz0RaNwOOqhJv+wF1grAQ6HquAoENWqy0X1qu4P7uPhAfv3Lg1tT6c7cctfdBUwRbRZMzdQplheAShA6XAA==",
   "apk": {
-    "versionCode": 48,
-    "versionName": "3.4.6",
-    "sha256": "80f6a30ddd6213dd6c40fe51fe6203e19877f61c2f9a7b82be7734369980dc2d",
-    "boyut": 301638470,
+    "versionCode": 49,
+    "versionName": "3.4.7",
+    "sha256": "910f45901763135465ac21c928d92e45a8fc517b60398583d4c31a7a5ddebf2e",
+    "boyut": 301642566,
     "parcalar": [
-      "Mezatron-Envanter-48.apk.001",
-      "Mezatron-Envanter-48.apk.002",
-      "Mezatron-Envanter-48.apk.003",
-      "Mezatron-Envanter-48.apk.004"
+      "Mezatron-Envanter-49.apk.001",
+      "Mezatron-Envanter-49.apk.002",
+      "Mezatron-Envanter-49.apk.003",
+      "Mezatron-Envanter-49.apk.004"
     ],
-    "imza": "oJAV/tCj6zkvHeBeCPbQ/ugSb6OOw0ci3We9FEfuEP60Dt2uJuo8Hn6FbwxxCq9x30++Zm5/CBGlfavxWORsAA==",
-    "adres": "https://raw.githubusercontent.com/ahmetaksoy243-oss/mezatron-guncelleme/telefon-48/"
+    "imza": "aAlIgpU2D4ZamzvZ5q6Ok6RApNbIg8xJbMhHJ/4lWPd8W81iP179QVRWlHgiGMhpMExo4xAK3T2pQkOMCiIICA==",
+    "adres": "https://raw.githubusercontent.com/ahmetaksoy243-oss/mezatron-guncelleme/telefon-49/"
   }
 }
