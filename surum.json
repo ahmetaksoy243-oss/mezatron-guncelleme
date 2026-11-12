@@ -1,11 +1,11 @@
 {
-  "surum": "3.5.0",
-  "dosya": "mezatron-3.5.0.zip",
-  "sha256": "aa55614f9e3692892022e3e791f3d704f3d14b644fb11e0475ba05423531f212",
-  "boyut": 5119628,
-  "tarih": "2026-11-12T07:03:28.349Z",
-  "notlar": "iPhone desteği; lisansa göre telefon sınırı ve yönetici onayı; telefon önce kendi sayfasıyla açılır (telefon 53)",
-  "imza": "L6BBclN88qpBAoA8NnM58Km1XyKxwU+wxNXBVloXAw29HbQCcvh7Eq5EvuAe9BSwWrAcX5PMafvhME9r16QSBg==",
+  "surum": "3.5.1",
+  "dosya": "mezatron-3.5.1.zip",
+  "sha256": "c4187eeec9099adcd6dee2c4722dd328ad8e1d2b65bca8a4fc2b45e5d8e4bc99",
+  "boyut": 5119866,
+  "tarih": "2026-11-12T07:15:34.629Z",
+  "notlar": "Tarayıcıdan ilk açılışta aynı telefon birden çok sayılmaz; iPhone desteği; lisansa göre telefon sınırı (telefon 53)",
+  "imza": "Pp5vofGJK5TNeg1lZVPwq5xxpaMEkMqR081ik8dWyxOT3oT/UsPF0GeJTzMUftCWDLK/N4cMM9bk6lP4icNtAw==",
   "apk": {
     "versionCode": 53,
     "versionName": "3.4.9",
