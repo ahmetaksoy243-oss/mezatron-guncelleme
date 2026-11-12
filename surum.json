@@ -1,23 +1,23 @@
 {
-  "surum": "3.4.9",
-  "dosya": "mezatron-3.4.9.zip",
-  "sha256": "40f26d93f5bd94f340569b20a27a9334bca4dfc54a7d96858b841d4af271e70c",
-  "boyut": 5110194,
-  "tarih": "2026-11-11T14:50:10.202Z",
-  "notlar": "Telefondan aktarırken kayıt kaybolmaz; DeepSeek hakemi tek tuşla açılır/kapanır; lisans bilgisayara bağlı; Manas ve Mihu çıkarıldı",
-  "imza": "p8SDrksOrrrJdyKa9UUozNsJ+RO7aUALM4K9sg9vjar652Sx72r8fHlPk9WWKNPBCyXOWs8gfxue0GBXP5ojAw==",
+  "surum": "3.5.0",
+  "dosya": "mezatron-3.5.0.zip",
+  "sha256": "aa55614f9e3692892022e3e791f3d704f3d14b644fb11e0475ba05423531f212",
+  "boyut": 5119628,
+  "tarih": "2026-11-12T07:03:28.349Z",
+  "notlar": "iPhone desteği; lisansa göre telefon sınırı ve yönetici onayı; telefon önce kendi sayfasıyla açılır (telefon 53)",
+  "imza": "L6BBclN88qpBAoA8NnM58Km1XyKxwU+wxNXBVloXAw29HbQCcvh7Eq5EvuAe9BSwWrAcX5PMafvhME9r16QSBg==",
   "apk": {
-    "versionCode": 51,
+    "versionCode": 53,
     "versionName": "3.4.9",
-    "sha256": "8034e55cb9e2c541e067dd7802709e97fb6473c568b56b3eb81361e1dde52322",
+    "sha256": "6edf2e4c24bc1ddbad9347fc905f28faa7afe22a907a874ad5b0e2a7b6e3c037",
     "boyut": 301646662,
     "parcalar": [
-      "Mezatron-Envanter-51.apk.001",
-      "Mezatron-Envanter-51.apk.002",
-      "Mezatron-Envanter-51.apk.003",
-      "Mezatron-Envanter-51.apk.004"
+      "Mezatron-Envanter-53.apk.001",
+      "Mezatron-Envanter-53.apk.002",
+      "Mezatron-Envanter-53.apk.003",
+      "Mezatron-Envanter-53.apk.004"
     ],
-    "imza": "9cNQvz+kuTotybh45kek5ctkYQW7NLSBFJav+ggargkaaYUs4Ushm+vX43jBXbloM/gn+JfeSQEOueFPM6+7Aw==",
-    "adres": "https://raw.githubusercontent.com/ahmetaksoy243-oss/mezatron-guncelleme/telefon-51/"
+    "imza": "HuesW3GivbcLDsjrzRxUrvzjlJ/N4Eo6ujQfW8074/E/RLP17fCxnhlvzWSyleC1jbcVEZ6TG52GAdFCqVNyCw==",
+    "adres": "https://raw.githubusercontent.com/ahmetaksoy243-oss/mezatron-guncelleme/telefon-53/"
   }
 }
